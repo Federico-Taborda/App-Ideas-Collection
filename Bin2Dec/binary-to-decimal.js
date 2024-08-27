@@ -4,7 +4,7 @@
  * Representa un numero Binario en base 2
  * @type {String}
  */
-let binary = "1101010011101";
+let binary = "1011001";
 
 /**
  * La funcion recibe un String numerico y lo convertira en un Number devolviendo
