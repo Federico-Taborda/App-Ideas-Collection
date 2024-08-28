@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: rgb(26, 188, 156);
+}
+
+main {
+    background-color: rgb(44, 62, 80);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#box {
+    width: 200px;
+    height: 200px;
+    border: 1px solid rgb(52, 152, 219);
+    margin: 10px;
+}
+
+#inputs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#inputs label {
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(52, 73, 94);
+    border-radius: 10%;
+    border: 1px solid rgb(26, 188, 156);
+}
+
+#copy input {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(52, 73, 94);
+    border-radius: 10%;
+    border: 1px solid rgb(26, 188, 156);
+}
